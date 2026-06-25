@@ -1,6 +1,6 @@
 cask "kantracker" do
-  version "1.9"
-  sha256 "12f655b7abc75c09fdcb62ecd8a3f0f3301cbac0abef2d34fab530e3694b36eb"
+  version "2.0"
+  sha256 "6a8c0c4699ef3b9a198342d91187a37a19365a0e7cf36500aa47123b1cccb061"
 
   url "https://github.com/trmp10/kantracker/releases/download/v#{version}/KanTracker.zip"
   name "KanTracker"
